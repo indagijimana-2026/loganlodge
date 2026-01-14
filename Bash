@@ -1,0 +1,4 @@
+/admin
+/content
+/content/announcements
+/content/articles
